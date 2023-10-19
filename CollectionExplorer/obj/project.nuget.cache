@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UlKi5ogeel1Z6+esh9R4DmtLqmpeqyCaf9oLTU6rnR2SUySkBVn5njy338y+RJELyhBXwhG5f9zkeolQEBoOIw==",
+  "success": true,
+  "projectFilePath": "D:\\web\\backend\\39\\02C#\\CollectionExplorerSolution\\CollectionExplorer\\CollectionExplorer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samy0\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.11\\microsoft.windowsdesktop.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\samy0\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.11\\microsoft.netcore.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\samy0\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.11\\microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\samy0\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.11\\microsoft.netcore.app.host.win-x64.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

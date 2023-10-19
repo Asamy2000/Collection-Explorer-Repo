@@ -1,0 +1,14 @@
+D:\web\backend\39\02C#\CollectionExplorerSolution\CollectionExplorer\bin\Debug\net7.0\CollectionExplorer.exe
+D:\web\backend\39\02C#\CollectionExplorerSolution\CollectionExplorer\bin\Debug\net7.0\CollectionExplorer.deps.json
+D:\web\backend\39\02C#\CollectionExplorerSolution\CollectionExplorer\bin\Debug\net7.0\CollectionExplorer.runtimeconfig.json
+D:\web\backend\39\02C#\CollectionExplorerSolution\CollectionExplorer\bin\Debug\net7.0\CollectionExplorer.dll
+D:\web\backend\39\02C#\CollectionExplorerSolution\CollectionExplorer\bin\Debug\net7.0\CollectionExplorer.pdb
+D:\web\backend\39\02C#\CollectionExplorerSolution\CollectionExplorer\obj\Debug\net7.0\CollectionExplorer.GeneratedMSBuildEditorConfig.editorconfig
+D:\web\backend\39\02C#\CollectionExplorerSolution\CollectionExplorer\obj\Debug\net7.0\CollectionExplorer.AssemblyInfoInputs.cache
+D:\web\backend\39\02C#\CollectionExplorerSolution\CollectionExplorer\obj\Debug\net7.0\CollectionExplorer.AssemblyInfo.cs
+D:\web\backend\39\02C#\CollectionExplorerSolution\CollectionExplorer\obj\Debug\net7.0\CollectionExplorer.csproj.CoreCompileInputs.cache
+D:\web\backend\39\02C#\CollectionExplorerSolution\CollectionExplorer\obj\Debug\net7.0\CollectionExplorer.dll
+D:\web\backend\39\02C#\CollectionExplorerSolution\CollectionExplorer\obj\Debug\net7.0\refint\CollectionExplorer.dll
+D:\web\backend\39\02C#\CollectionExplorerSolution\CollectionExplorer\obj\Debug\net7.0\CollectionExplorer.pdb
+D:\web\backend\39\02C#\CollectionExplorerSolution\CollectionExplorer\obj\Debug\net7.0\CollectionExplorer.genruntimeconfig.cache
+D:\web\backend\39\02C#\CollectionExplorerSolution\CollectionExplorer\obj\Debug\net7.0\ref\CollectionExplorer.dll
